@@ -1,6 +1,4 @@
-# internetContent
----
-## SearchResults
+# searchResults
 - google
   - With ADs, without AI: 5
   - Without ADs, without AI: 6
@@ -12,5 +10,3 @@
   - General: 4
 - baidu
   - General: 0.5
----
-#### wikiPedia
