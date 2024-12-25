@@ -1,4 +1,4 @@
 # reviewContents
-- TripAdvisor
-    - Review: 7.5
-- 
+* TripAdvisor
+    * Review: 7.5
+* 
