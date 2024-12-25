@@ -13,6 +13,8 @@
     - Other: 7
 - NewYork Times
     - General: 7
+- AppleNews+
+    - General: 9
 ### AI Based
 - ChatGPT
     - 4o with web search(search func): 7.5
