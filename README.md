@@ -1,4 +1,4 @@
-# trustLevel
+# TrustLevel
 
 TrustLevel system from ThomasB Internet Service Infrastructure
 
