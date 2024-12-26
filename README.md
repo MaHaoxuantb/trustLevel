@@ -1,6 +1,6 @@
 # TrustLevel
 
-TrustLevel system from ThomasB Internet Service Infrastructure
+Open source TrustLevel system from ThomasB Internet Service Infrastructure
 
 This respostory based on GNU license and [ThomasB Internet Services General Licenses](https://license.mahaoxuan.top/).
 If there's any conflict between these two licenses, You should always based on ThomasB Internet Services General Licenses.
