@@ -11,5 +11,14 @@ This is the opensource version of this project. Some of the sensitive content ma
 
 If there's any question, public@thomasb.top
 
+### Thanks
+
+This project is a part of ThomasB Internet Services Infrastructure.
+
+Thanks for:
+* All contributors
+* Cloudflare Inc, Vercel, Github
+
 ---
+
 Copyright 2022-2024 @ ThomasB Internet Services
