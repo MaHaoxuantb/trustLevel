@@ -29,4 +29,21 @@ With the latest OS, without iPhones sold in China
 
 ### Xiaomi phones
 With the latest OS
-* 
+* General (2020 - 2024) without sold in China
+    * Device safety: 6
+    * Software safety: 2.5
+    * Internet safety: 3
+    * AI safety: 3
+* General (2020 - 2024) sold in China
+    * Device safety: 0
+    * Software safety: 0
+    * Internet safety: 0
+    * AI safety: 0
+
+### Huawei phones
+With the latest OS
+* General (2020 - 2024) sold in China
+    * Device safety: -10
+    * Software safety: 0
+    * Internet safety: -5
+    * AI safety: 0
