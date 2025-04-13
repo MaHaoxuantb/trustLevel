@@ -9,7 +9,7 @@ If there's any conflict between these two licenses, You should always based on T
 
 This is the opensource version of this project. Some of the sensitive content may not included here. If you need the full version, Please contact me.
 
-If there's any question, public@thomasb.top
+Email: thomasb@services.annopia.com
 
 ### Thanks
 
