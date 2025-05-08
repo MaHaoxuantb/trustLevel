@@ -2,7 +2,7 @@
 
 Open source TrustLevel system from ThomasB Internet Service Infrastructure
 
-This respostory based on GNU license and [ThomasB Internet Services General Licenses](https://license.mahaoxuan.top/).
+This respostory based on GNU license and [ThomasB Internet Services General Licenses](https://redirect.annopia.com/?domain=license.mahaoxuan.top&originService=trustLevel).
 If there's any conflict between these two licenses, You should always based on ThomasB Internet Services General Licenses.
 
 ### Notice
