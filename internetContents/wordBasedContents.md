@@ -10,10 +10,10 @@
 * WSJ
     * Econ: 8
     * Politics: 6.5
-    * Other: 7
+    * Other: 7.5
 * NewYork Times
     * General: 7
-* AppleNews+
+* AppleNews+ (internal, other not included)
     * General: 9
 ### AI Based
 * ChatGPT
